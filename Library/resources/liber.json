@@ -1,0 +1,66 @@
+{
+  "id": "LIB001",
+  "name": "中心图书馆",
+  "rooms": [
+    {
+      "id": "RM001",
+      "name": "1号图书室",
+      "bookSelfs": [
+        {
+          "id": "SLF011",
+          "name": "1号图书馆1号书架",
+          "books": [
+            {
+              "id": "BK111",
+              "name": "Java基础"
+            },
+            {
+              "id": "BK112",
+              "name": "Java核心编程"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "RM002",
+      "name": "2号图书室",
+      "bookSelfs": [
+        {
+          "id": "SLF021",
+          "name": "1号图书馆1号书架",
+          "books": [
+            {
+              "id": "BK211",
+              "name": "Java基础"
+            },
+            {
+              "id": "BK212",
+              "name": "Java核心编程"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "RM003",
+      "name": "3号图书室",
+      "bookSelfs": [
+        {
+          "id": "SLF031",
+          "name": "1号图书馆1号书架",
+          "books": [
+            {
+              "id": "BK311",
+              "name": "Java基础"
+            },
+            {
+              "id": "BK312",
+              "name": "Java核心编程"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
